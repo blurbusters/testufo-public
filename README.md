@@ -12,7 +12,7 @@
 - Current Status: Private Beta
 - Detail: TestUFO 2.0 HDR is not yet published to www.testufo.com
 
-Once public, please use the Issues tab to submit bug reports. This is a placeholder for the upcoming brand new TestUFO 2.0 HDR issue tracker for public bug reports.  
+Once public, please use this [Issues Tracker](https://github.com/blurbusters/testufo-public/issues) to submit feature requests and bug reports. This is a placeholder for the upcoming brand new TestUFO 2.0 HDR issue tracker for public bug reports.  
 
 ## Sneak Preview Pre-Announcement
 
