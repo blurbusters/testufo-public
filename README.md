@@ -1,6 +1,6 @@
 # Test UFO 2.0 HDR
 
-## GitHub Issue Tracker for Next Generation Display Motion Tests by Blur Busters
+## GitHub [Issue Tracker](https://github.com/blurbusters/testufo-public/issues) for Next Generation Display Motion Tests by Blur Busters
 
 - Public TestUFO bug reports
 - New TestUFO feature requests
