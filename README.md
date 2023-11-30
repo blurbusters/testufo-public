@@ -9,13 +9,12 @@ Please use the Issues tab - this is a placeholder for the upcoming brand new Tes
 
 Blur Busters is about to make a public announcement in December, before Christmas, on time for CES 2024.  But for a sneak preview, here are the preview pre-announcements:
 
-AVSFORUM: [Some great news for OLED nerds](https://www.avsforum.com/threads/oled-tvs-technology-advancements-thread.681125/page-1058#post-62984052)
-
-Twitter: [TestUFO 2.0 HDR sneak preview screenshot](https://twitter.com/BlurBusters/status/1730056458899763605)
+- AVSFORUM: [Some great news for OLED nerds](https://www.avsforum.com/threads/oled-tvs-technology-advancements-thread.681125/page-1058#post-62984052)
+- Twitter: [TestUFO 2.0 HDR sneak preview screenshot](https://twitter.com/BlurBusters/status/1730056458899763605)
 
 ## Screenshot of TestUFO 2.0 HDR Color Picker
 
-![TestUFO HDR 2.0 Screenshot](testufo-screensht.png)
+![TestUFO HDR 2.0 Screenshot](testufo-screenshot.png)
 
 ## Photo of Brighter Than Hex #FFFFFF White!
 
