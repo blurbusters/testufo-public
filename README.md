@@ -35,3 +35,4 @@ Please note, we were forced to use rec2020 CSS4 with rec2100-pq CANVAs, to achie
 
 Also, Safari supports DCI-P3 and we got brighter-than-white capability working (video workaround technique), although [Safari is limited to 120Hz](https://bugs.webkit.org/show_bug.cgi?id=173434) (WebKit Tracker) even if you connect 144Hz+ to MacOS.
 
+![TestUFO HDR CSS4 editable](testufo-hdr-editable.gif)
