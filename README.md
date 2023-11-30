@@ -2,6 +2,9 @@
 
 ## Issue Tracker for Next Generation Display Motion Tests by Blur Busters
 
+Current Status: Private Beta
+Detail: TestUFO 2.0 HDR is not yet published to www.testufo.com
+
 - Public TestUFO bug reports
 - New TestUFO feature requests
 
