@@ -1,14 +1,18 @@
 # Test UFO 2.0 HDR
 
-## Issue Tracker for Next Generation Display Motion Tests by Blur Busters
-
-Current Status: Private Beta
-Detail: TestUFO 2.0 HDR is not yet published to www.testufo.com
+## GitHub Issue Tracker for Next Generation Display Motion Tests by Blur Busters
 
 - Public TestUFO bug reports
 - New TestUFO feature requests
 
-Please use the Issues tab - this is a placeholder for the upcoming brand new TestUFO 2.0 HDR issue tracker for public bug reports.  There is no source code here yet, please use the Issues tab to create a new bug report for TestUFO 2.0 HDR.
+## Status
+
+- Current Status: Private Beta
+- Detail: TestUFO 2.0 HDR is not yet published to www.testufo.com
+
+Once public, please use the Issues tab to submit bug reports. This is a placeholder for the upcoming brand new TestUFO 2.0 HDR issue tracker for public bug reports.  
+
+## Sneak Preview Pre-Announcement
 
 Blur Busters is about to make a public announcement in December, before Christmas, on time for CES 2024.  But for a sneak preview, here are the preview pre-announcements:
 
