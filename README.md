@@ -25,14 +25,14 @@ Blur Busters is about to make a public announcement in December, before Christma
 
 ## Screenshot of TestUFO 2.0 HDR Color Picker
 
-![TestUFO HDR 2.0 Screenshot](testufo-screenshot.png)
+![TestUFO HDR 2.0 Screenshot](images/testufo-screenshot.png)
 
 ## Photo of Brighter Than Hex #FFFFFF White!
 
-![TestUFO HDR 2.0 Photo with Brighter-Than-White](testufo-hdr-photo.jpg)
+![TestUFO HDR 2.0 Photo with Brighter-Than-White](images/testufo-hdr-photo.jpg)
 
 Please note, we were forced to use rec2020 CSS4 with rec2100-pq CANVAs, to achieve this. There was no other way.
 
 Also, Safari supports DCI-P3 and we got brighter-than-white capability working (video workaround technique), although [Safari is limited to 120Hz](https://bugs.webkit.org/show_bug.cgi?id=173434) (WebKit Tracker) even if you connect 144Hz+ to MacOS.
 
-![TestUFO HDR CSS4 editable](testufo-hdr-editable.gif)
+![TestUFO HDR CSS4 editable](images/testufo-hdr-editable.gif)
