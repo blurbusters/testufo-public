@@ -4,6 +4,8 @@
 
 ## GitHub [Issue Tracker](https://github.com/blurbusters/testufo-public/issues) for TestUFO
 
+![TestUFO 2.0 HDR](images/testufo-v2-hdr-screenshot.png)
+
 *For the next-generation TestUFO Display Motion Tests created by Mark Rejhon of Blur Busters.*
 
 - Public TestUFO bug reports
