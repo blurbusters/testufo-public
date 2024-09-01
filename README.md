@@ -1,8 +1,8 @@
-(This issue tracker is still unpublicized, this is a placeholder for CES 2024)
-
 # Test UFO 2.0 HDR
 
 ## GitHub [Issue Tracker](https://github.com/blurbusters/testufo-public/issues) for TestUFO
+
+Bugs? Problems? Please [submit](https://github.com/blurbusters/testufo-public/issues/new/choose) a new issue
 
 ![TestUFO 2.0 HDR](images/testufo-v2-hdr-screenshot.png)
 
@@ -38,3 +38,5 @@ Please note, we were forced to use rec2020 CSS4 with rec2100-pq CANVAs, to achie
 Also, Safari supports DCI-P3 and we got brighter-than-white capability working (video workaround technique), although [Safari is limited to 120Hz](https://bugs.webkit.org/show_bug.cgi?id=173434) (WebKit Tracker) even if you connect 144Hz+ to MacOS.
 
 ![TestUFO HDR CSS4 editable](images/testufo-hdr-editable.gif)
+
+Bugs? Problems? Please [submit](https://github.com/blurbusters/testufo-public/issues/new/choose) a new issue.
