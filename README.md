@@ -2,7 +2,10 @@
 
 ## GitHub [Issue Tracker](https://github.com/blurbusters/testufo-public/issues) for TestUFO
 
-Bugs? Problems? Please [submit](https://github.com/blurbusters/testufo-public/issues/new/choose) a new issue
+IMPORTANT:
+
+- Stuck at 30Hz or 60Hz? Please [see solutions](https://forums.blurbusters.com/viewtopic.php?f=19&t=3549)
+- Bugs? Problems? Feature Requests? Submit a new issue only after reading this. Thank you!
 
 ![TestUFO 2.0 HDR](images/testufo-v2-hdr-screenshot.png)
 
