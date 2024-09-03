@@ -42,4 +42,6 @@ Also, Safari supports DCI-P3 and we got brighter-than-white capability working (
 
 ![TestUFO HDR CSS4 editable](images/testufo-hdr-editable.gif)
 
+Public Discussions? See [TestUFO Discussion Forum](https://forums.blurbusters.com/viewforum.php?f=19)
+
 Bugs? Problems? Please [submit](https://github.com/blurbusters/testufo-public/issues/new/choose) a new issue.
