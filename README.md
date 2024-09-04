@@ -1,4 +1,4 @@
-# Test UFO 2.0 HDR
+# Test UFO 2.0 HDR - [beta.testufo.com](https://beta.testufo.com)
 
 ## GitHub [Issue Tracker](https://github.com/blurbusters/testufo-public/issues) for TestUFO
 
