@@ -1,4 +1,4 @@
-# Test UFO 2.0 HDR - [beta.testufo.com](https://beta.testufo.com)
+# Test UFO 2.1 - [beta.testufo.com](https://www.testufo.com)
 
 ## GitHub [Issue Tracker](https://github.com/blurbusters/testufo-public/issues) for TestUFO
 
@@ -16,19 +16,19 @@ IMPORTANT:
 
 ## Status
 
-- Current Status: Private Beta
-- Detail: TestUFO 2.0 HDR is not yet published to www.testufo.com
+- TestUFO 1.0 running at [old.testufo.com](https://old.testufo.com) (old browser compatible)
+- TestUFO 2.1 running at [www.testufo.com](https://www.testufo.com) (modernized HDR engine)
 
-Once public, please use this [Issues Tracker](https://github.com/blurbusters/testufo-public/issues) to submit feature requests and bug reports. This is a placeholder for the upcoming brand new TestUFO 2.0 HDR issue tracker for public bug reports.  
+Use this [Issues Tracker](https://github.com/blurbusters/testufo-public/issues) to submit feature requests and bug reports.
 
-## Sneak Preview Pre-Announcement
+## Historical
 
-Blur Busters is about to make a public announcement in December, before Christmas, on time for CES 2024.  But for a sneak preview, here are the preview pre-announcements:
+Past TestUFO 2.0 announcements
 
 - AVSFORUM: [Some great news for OLED nerds](https://www.avsforum.com/threads/oled-tvs-technology-advancements-thread.681125/page-1058#post-62984052)
 - Twitter: [TestUFO 2.0 HDR sneak preview screenshot](https://twitter.com/BlurBusters/status/1730056458899763605)
 
-## Screenshot of TestUFO 2.0 HDR Color Picker
+## TestUFO 2.0 HDR Color Picker
 
 ![TestUFO HDR 2.0 Screenshot](images/testufo-screenshot.png)
 
